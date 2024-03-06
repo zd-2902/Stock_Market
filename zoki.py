@@ -1,1 +1,1 @@
-python
+print(5)
